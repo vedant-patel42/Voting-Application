@@ -1,5 +1,5 @@
 # Voting-Application
 
-Programming Language: Java
-Markup Language: XML
-Tools and Technologies: Android Studio
+<b>Programming Language:</b> Java<br>
+<b>Markup Language:</b> XML <br>
+<b>Tools and Technologies:</b> Android Studio
